@@ -1,0 +1,9 @@
+Building Invoice-Coin
+
+See doc/readme-qt.rst for instructions on building Invoice-Coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Invoice-Coin.
+
+See doc/build-*.txt for instructions on building Invoice-Coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Invoice-Coin.
