@@ -1,7 +1,7 @@
 Invoice-Coin [IVC] integration/staging tree
 =====================================
 
-http://www.invoice-coincoin.com
+https://invoicecoin.us/
 
 What is the Invoice-Coin [IVC] Blockchain?
 ---------------------------
@@ -33,9 +33,9 @@ RPC Port: 10257
 
 BUILD LINUX
 -----------
-1) git clone https://github.com/CryptoCoderz/IVC
+1) git clone https://github.com/CryptoCoderz/Invoice-Coin
 
-2) cd IVC/src
+2) cd Invoice-Coin/src
 
 3) sudo make -f makefile.unix            # Headless
 
