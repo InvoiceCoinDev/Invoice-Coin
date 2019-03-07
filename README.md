@@ -28,9 +28,6 @@ open source software which enables the use of this protocol.
 ### Custom Difficulty Retarget Algorithm “VRX”
 VRX is designed from the ground up to integrate properly with the Velocity parameter enforcement system to ensure users no longer receive orphan blocks.
 
-### Velocity Block Constraint System
-Ensuring Insane stays as secure and robust as possible the CryptoCoderz team have implemented what's known as the Velocity block constraint system. This system acts as third and final check for both mined and peer-accepted blocks ensuring that all parameters are strictly enforced.
-
 ### Wish (bmw512) Proof-of-Work Algorithm
 Wish or bmw512 hashing algorithm is utilized for the Proof-of-Work function and also replaces much of the underlying codebase hashing functions as well that normally are SHA256. By doing so this codebase is able to be both exponentially lighter and more secure in comparison to reference implementations.
 
